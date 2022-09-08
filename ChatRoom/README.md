@@ -1,3 +1,4 @@
+对应功能展示可访问本人博客 https://blog.csdn.net/qqGHJ/article/details/107405985
 
 # Linux-C-聊天室
 运行在Linux系统平台，基于TCP/IP的聊天室程序
